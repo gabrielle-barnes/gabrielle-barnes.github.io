@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Gabrielle Barnes"
   avatar : "/assets/images/gabi-bio.jpg"
-  bio    : "Just finished Microsoft Research internship! B.Comp.Sc; Minor: Urban Studies @ LMU || Interested in sustainability tech."
+  bio    : "Just finished Microsoft Research internship! B.Comp.Sc; Minor: Urban Studies @ LMU"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
