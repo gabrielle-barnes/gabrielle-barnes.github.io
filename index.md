@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-Hi, I’m Gabrielle! I recently graduated with a B.S. in Computer Science and a minor in Urban Studies from Loyola Marymount University. I’ve worked on sustainable technologies during an internship at [Microsoft Research](https://www.microsoft.com/en-us/research/), programming languages with [Dr. Ray Toal](https://cse.lmu.edu/department/computerscience/faculty/?expert=ray.toal), and AI behavior for the game [Synthergy](https://www.synthergy.us/about).
+Hi, I’m Gabi! I recently graduated with a B.S. in Computer Science and a minor in Urban Studies from Loyola Marymount University. I’ve worked on sustainable technologies during an internship at [Microsoft Research](https://www.microsoft.com/en-us/research/), programming languages with [Dr. Ray Toal](https://cse.lmu.edu/department/computerscience/faculty/?expert=ray.toal), and AI behavior for the game [Synthergy](https://www.synthergy.us/about).
 
 I’m especially interested in sustainable tech, aquaculture, and agriculture.
 
